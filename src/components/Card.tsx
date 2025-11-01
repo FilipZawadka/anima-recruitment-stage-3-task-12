@@ -28,7 +28,7 @@ function Card() {
 
     <div className="card-display-container" id="card-display">
      <div className="card-text-container">
-      <div  className="card-text">Thank you {firstname} {lastname}</div>
+      <div  className="card-text">Thank you for supporting us, {firstname} {lastname}!</div>
     </div>
       <img className="image" src={profileImg} alt="profile" />
     </div>
